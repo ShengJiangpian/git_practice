@@ -4,7 +4,7 @@
 @Copyright   : 杭州中为光电技术有限公司
 @Date        : 2022-03-11 13:40:31
 @LastEditors : Su Jingpeng
-@LastEditTime: 2022-03-11 17:03:23
+@LastEditTime: 2022-03-14 08:55:56
 @Modified    : 
 """
 
@@ -47,7 +47,7 @@
 #         print('两数和为：{0:.2f}'.format(sum))
 #         break
 
-x = int(input("请输入范围"))
+x = int(input("请输入范围："))
 for num in range(x):
     n = len(str(num))
     temp = num
